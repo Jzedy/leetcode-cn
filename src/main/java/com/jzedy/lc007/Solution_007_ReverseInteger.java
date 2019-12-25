@@ -1,4 +1,4 @@
-package com.cn.jzedy;
+package com.jzedy.lc007;
 
 import org.junit.Test;
 

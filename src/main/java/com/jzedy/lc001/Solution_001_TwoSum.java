@@ -1,4 +1,4 @@
-package com.cn.jzedy;
+package com.jzedy.lc001;
 
 import java.util.Arrays;
 

@@ -1,9 +1,6 @@
-package com.cn.jzedy;
+package com.jzedy.lc008;
 
 import org.junit.Test;
-
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * @author Jzedy
